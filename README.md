@@ -45,7 +45,8 @@ The free list tracks unused memory blocks that are available for future allocati
 
 This flowchart outlines the steps to allocate memory:
 
-![Uploading Screenshot from 2024-11-28 20-25-27.png…]()
+![Screenshot from 2024-11-28 20-25-27](https://github.com/user-attachments/assets/2757b233-4764-46cb-a747-f33fde60e554)
+
 
 1. **Check the free list** for a suitable block:
    - If a block of the required size is found:
